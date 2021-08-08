@@ -1,7 +1,7 @@
 # GUI-Using-Python
 
 
-objective:-
+OBJECTIVE:-
 
 The main objective of the Python Project on Hotel Booking System is to manage the  details of Booking, Hotel, Customers, Payments, Services. It manages all the information about  Booking, Rooms, Services, Booking.
 
